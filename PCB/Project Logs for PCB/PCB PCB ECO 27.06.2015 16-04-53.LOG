@@ -1,0 +1,8 @@
+Added Component: Designator=SB1(IT-1189UE)
+Added Pin To Net: NetName=GND Pin=SB1-3
+Added Pin To Net: NetName=GND Pin=SB1-4
+Added Pin To Net: NetName=NetDD1_32 Pin=DD1-32
+Added Pin To Net: NetName=NetDD1_32 Pin=SB1-1
+Added Pin To Net: NetName=NetDD1_32 Pin=SB1-2
+Added Net: Name=NetDD1_32
+Added Member To Class: ClassName=Schematic Member=Component SB1 IT-1189UE

@@ -1,0 +1,21 @@
+Added Component: Designator=J1(PIN1)
+Added Component: Designator=J2(PIN1)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=DD1-3
+Added Pin To Net: NetName=GND Pin=DD1-5
+Added Pin To Net: NetName=GND Pin=DD1-21
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=GND Pin=VT1-2
+Added Pin To Net: NetName=GND Pin=VT2-2
+Added Pin To Net: NetName=GND Pin=VT3-2
+Added Pin To Net: NetName=GND Pin=VT4-2
+Added Net: Name=GND
+Added Pin To Net: NetName=VCC Pin=C1-2
+Added Pin To Net: NetName=VCC Pin=DD1-4
+Added Pin To Net: NetName=VCC Pin=DD1-6
+Added Pin To Net: NetName=VCC Pin=DD1-18
+Added Pin To Net: NetName=VCC Pin=J1-1
+Added Pin To Net: NetName=VCC Pin=R1-2
+Added Net: Name=VCC
+Added Member To Class: ClassName=Schematic Member=Component J1 Vcc
+Added Member To Class: ClassName=Schematic Member=Component J2 GND

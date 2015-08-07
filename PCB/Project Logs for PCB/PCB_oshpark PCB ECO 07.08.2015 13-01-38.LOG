@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=SB1 Old Footprint= New Footprint=IT-1189UE
+Added Pin To Net: NetName=GND Pin=SB1-GND
+Added Pin To Net: NetName=GND Pin=SB1-GND
+Added Pin To Net: NetName=BUTTON Pin=SB1-1
+Added Pin To Net: NetName=BUTTON Pin=SB1-2
+Added Net: Name=BUTTON
