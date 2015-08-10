@@ -40,7 +40,7 @@ PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 Configuration1_Name1=OutputConfigurationParameter1
 Configuration1_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0
 OutputType2=PCB Print
-OutputName2=PCB Silk
+OutputName2=PCB Silk Top
 OutputCategory2=Documentation
 OutputDocumentPath2=PCB_oshpark.PcbDoc
 OutputVariantName2=
@@ -65,7 +65,7 @@ OutputCategory3=Documentation
 OutputDocumentPath3=PCB_oshpark.PcbDoc
 OutputVariantName3=
 OutputEnabled3=0
-OutputEnabled3_OutputMedium1=6
+OutputEnabled3_OutputMedium1=7
 OutputEnabled3_OutputMedium2=0
 OutputDefault3=0
 PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=8.49|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A3|PaperIndex=8
@@ -77,7 +77,7 @@ OutputCategory4=Documentation
 OutputDocumentPath4=PCB_oshpark.PcbDoc
 OutputVariantName4=
 OutputEnabled4=0
-OutputEnabled4_OutputMedium1=7
+OutputEnabled4_OutputMedium1=8
 OutputEnabled4_OutputMedium2=0
 OutputDefault4=0
 PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=8.49|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A3|PaperIndex=8
@@ -89,7 +89,7 @@ OutputCategory5=Report
 OutputDocumentPath5=PCB_oshpark.PcbDoc
 OutputVariantName5=
 OutputEnabled5=0
-OutputEnabled5_OutputMedium1=8
+OutputEnabled5_OutputMedium1=9
 OutputEnabled5_OutputMedium2=0
 OutputDefault5=0
 PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
@@ -202,6 +202,26 @@ OutputEnabled11_OutputMedium2=2
 OutputDefault11=0
 Configuration11_Name1=OutputConfigurationParameter1
 Configuration11_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=4|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Absolute|Record=DrillView|Units=Metric|ZeroesMode=KeepLeadingAndTrailingZeroes
+OutputType12=PCB Print
+OutputName12=PCB Silk Bottom
+OutputCategory12=Documentation
+OutputDocumentPath12=PCB_oshpark.PcbDoc
+OutputVariantName12=
+OutputEnabled12=0
+OutputEnabled12_OutputMedium1=6
+OutputEnabled12_OutputMedium2=0
+OutputDefault12=0
+PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration12_Name1=OutputConfigurationParameter1
+Configuration12_Item1=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView
+Configuration12_Name2=OutputConfigurationParameter2
+Configuration12_Item2=IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=0|Mirror=True|Name=Multilayer Composite Print|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False
+Configuration12_Name3=OutputConfigurationParameter3
+Configuration12_Item3=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|DDSymbolKind=0|DDSymbolSize=500000|DDSymbolSortKind=0|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=MultiLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration12_Name4=OutputConfigurationParameter4
+Configuration12_Item4=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|DDSymbolKind=0|DDSymbolSize=500000|DDSymbolSortKind=0|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=BottomOverlay|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration12_Name5=OutputConfigurationParameter5
+Configuration12_Item5=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|DDSymbolKind=0|DDSymbolSize=500000|DDSymbolSortKind=0|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=KeepOutLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
 
 [PublishSettings]
 OutputFilePath1=
@@ -229,7 +249,7 @@ MarkPortsId1=1
 GenerateTOC=1
 ShowComponentParameters1=1
 GlobalBookmarks1=0
-OutputFilePath2=D:\Random\Github\Sm4rt W8tch\PCB\Project Outputs for PCB\
+OutputFilePath2=D:\Random\Github\Sm4rt-W8tch\PCB\Project Outputs for PCB\
 ReleaseManaged2=1
 OutputBasePath2=Project Outputs for PCB
 OutputPathMedia2=
@@ -246,7 +266,7 @@ OpenOutput2=1
 [GeneratedFilesSettings]
 RelativeOutputPath1=
 OpenOutputs1=1
-RelativeOutputPath2=D:\Random\Github\Sm4rt W8tch\PCB\Project Outputs for PCB\
+RelativeOutputPath2=D:\Random\Github\Sm4rt-W8tch\PCB\Project Outputs for PCB\
 OpenOutputs2=1
 AddToProject2=1
 TimestampFolder2=0
