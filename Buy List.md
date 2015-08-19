@@ -16,4 +16,4 @@
 * [3D печать](http://in3d.by/3d-printers/3d)
 
 ### OSH Park
-* (Community printed circuit board (PCB) order)[https://oshpark.com/]
+* [Community printed circuit board (PCB) order](https://oshpark.com/)
