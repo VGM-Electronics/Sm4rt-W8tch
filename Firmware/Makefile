@@ -1,7 +1,7 @@
 # Name: Makefile
 # Project: Micronucleus. Kolkhoz Edition
 # Author: Jenna Fox; portions by Christian Starkjohann, Louis Beaudoin; edited by Victor Grigoryev
-# Creation Date: 2014-12-25
+# Creation Date: 2015-08-19
 # Tabsize: 4
 # Copyright: (c) 2007 by OBJECTIVE DEVELOPMENT Software GmbH
 # License: GNU GPL v2 (see License.txt)
@@ -43,7 +43,7 @@ BOOTLOADER_ADDRESS = 18C0
 PROGRAMMER = usbasp
 COMPORT = usb
 BAUDRATE = 19200
-AVRHOME = D:\Soft\Arduino\WinAVR-20100110\bin
+AVRHOME = E:\Soft\Arduino\WinAVR-20100110\bin
 CONFIGFILE = $(AVRHOME)\avrdude.conf
 
 # Fuse configuration for different chips
