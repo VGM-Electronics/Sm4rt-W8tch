@@ -9,7 +9,7 @@
 * [Кнопка тактовая IT-1189UE / 4x3,5x1 smd угловая](http://belchip.by/product/?selected_product=00003280)
 * [Трубка термоусадочная 1,0/0,5; 90 C; жёлтая](http://belchip.by/product/?selected_product=00012463)
 
-### `Мир Батареек`
+### `AliExpress`
 * [5x CR2330 Lithium 3V Button Cell Coin Battery `da vinci`](http://www.aliexpress.com/item/5x-CR2330-ECRCR2330-KCRCR2330-BRCR2330-Lithium-3V-Button-Cell-Coin-Battery-Wholesale-da-vinci/32437135071.html)
 
 ### `Гетц Трейд`
