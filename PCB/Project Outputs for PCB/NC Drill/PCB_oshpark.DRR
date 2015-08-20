@@ -1,5 +1,5 @@
 ---------------------------------------------------------------------------
-NCDrill File Report For: PCB_oshpark.PcbDoc   17.08.2015  14:01:35
+NCDrill File Report For: PCB_oshpark.PcbDoc   20.08.2015  17:11:14
 ---------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,10 +7,10 @@ ASCII RoundHoles File : PCB_oshpark.TXT
 
 Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
 ---------------------------------------------------------------------------
-T1        0.381mm (15mil)          Round          30               104.18 mm (4.10 Inch)
-T2        0.762mm (30mil)          Round          18               74.41 mm (2.93 Inch)
+T1        0.381mm (15mil)          Round          27               132.59 mm (5.22 Inch)
+T2        0.762mm (30mil)          Round          18               69.51 mm (2.74 Inch)
 T3        1.524mm (60mil)          Round          4                67.00 mm (2.64 Inch)
 ---------------------------------------------------------------------------
-Totals                                            52               245.59 mm (9.67 Inch)
+Totals                                            49               269.10 mm (10.59 Inch)
 
 Total Processing Time (hh:mm:ss) : 00:00:00
