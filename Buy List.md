@@ -1,7 +1,7 @@
 Наименование|Количество|Цена за один|Итого BYR|Итого USD
 :-----------|:---------|:-----------|:--------|:--------
 [Светодиодный индикатор GNQ-2841CS 32,2х7 красный](http://belchip.by/product/?selected_product=00001523)|1|19700|19700|$1.211
-[Резонатор кварцевый часовой 32,768 KHz 2Х6мм(http://ay.by/lot/kvarc-32-768-kgc-32768-gc-v-mini-korpuse-2h6mm-vyvody-8mm-est-takzhe-3h8mm-payanye-ispolzuyutsya-v-chasah-kompyuternyh-platah-i-t-p-5013764719.html?utm_source=email&utm_medium=email&utm_campaign=notification&utm_content=auction_win)]|3000|2|6000|$0.36
+[Кварц 32.768 кГц (32768 Гц) в мини-корпусе 2х6мм](http://ay.by/lot/kvarc-32-768-kgc-32768-gc-v-mini-korpuse-2h6mm-vyvody-8mm-est-takzhe-3h8mm-payanye-ispolzuyutsya-v-chasah-kompyuternyh-platah-i-t-p-5013764719.html?utm_source=email&utm_medium=email&utm_campaign=notification&utm_content=auction_win)|2|3000|6000|$0.36
 [Конденсатор SMD 0603 0,1mkf (X7R) 50v 10%](http://belchip.by/product/?selected_product=00006225)|10|200|2000|$0.123
 [Резистор SMD 0603 10 kom 5% (0,1W)](http://belchip.by/product/?selected_product=00001220)|10|200|2000|$0.123
 [Резистор SMD 0603 100 om 5% (0,1W)](http://belchip.by/product/?selected_product=00001176)|10|200|2000|$0.123
