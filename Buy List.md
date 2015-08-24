@@ -14,8 +14,4 @@
 [Community printed circuit board (PCB) order](https://oshpark.com/)|3|||$9.85
 [22 mm nylon NATO waterproof watch strap // 3 black 2 white stripes](http://www.aliexpress.com/item/New-arrival-48color-available-1PCS-22MM-High-quality-Nylon-Watch-band-NATO-waterproof-watch-strap-fashion/32330640440.html)|1|||$3.5
 [22 mm double flange spring bar](http://www.aliexpress.com/item/Lowest-Price-New-Arrive-30Pcs-8-22mm-Double-Flange-Watch-Band-Strap-Link-Pin-Spring-Bar/32298089279.html)|1|||$0.76
-<<<<<<< HEAD
 Итого||||**$29.119**
-=======
-Итого||||**$29.119**
->>>>>>> origin/master
