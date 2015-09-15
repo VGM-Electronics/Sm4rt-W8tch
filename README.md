@@ -16,3 +16,6 @@ It's dull and stupid to copy any of existing stuff, that's why I decided to desi
 
 ### Why ATmega48?
 That chip isn't new, but one day I got unused industrial electricity meter with **ATmega48V-10AI**. At one moment I wanted to change **TQFP32** MCU (9x9 mm) to **QFN32** (5x5 mm), however, I had to give up that idea because it's extremely difficult to buy such a chips by one piece.
+
+[![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)  
+<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Sm4rt W8tch</span> by [Victor Grigoryev](vk.com/victor_grigoryev) is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
