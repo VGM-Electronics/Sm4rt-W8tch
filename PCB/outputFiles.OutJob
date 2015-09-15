@@ -17,7 +17,7 @@ RevisionNamingSchemeGUID=
 [OutputGroup1]
 Name=outputFiles.OutJob
 Description=
-TargetOutputMedium=New Folder Structure
+TargetOutputMedium=OSH Park Manufacture
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
@@ -25,7 +25,7 @@ TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=PDF
 OutputMedium1_Type=Publish
-OutputMedium2=New Folder Structure
+OutputMedium2=OSH Park Manufacture
 OutputMedium2_Type=GeneratedFiles
 OutputType1=Schematic Print
 OutputName1=Схема электрическая принципиальная
