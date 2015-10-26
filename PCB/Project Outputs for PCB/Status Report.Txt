@@ -1,14 +1,12 @@
-Project Outputs Generation Report
----------------------------------
-Start Output Generation At 16:12:54 On 03.09.2015
-
-Output: AutoCAD dwg/dxf File PCB
-Type  : AutoCAD PCB
+Output: NC Drill Files
+Type  : NC Drill
 From  : PCB Document [PCB_oshpark.PcbDoc]
-   Generated File[PCB_oshpark.DWG]
+   Generated File[PCB_oshpark.TXT]
+   Generated File[PCB_oshpark.LDP]
+   Generated File[PCB_oshpark.DRR]
 
 
-Files Generated   : 1
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 16:12:56 On 03.09.2015
+Finished Output Generation At 23:52:01 On 21.10.2015
